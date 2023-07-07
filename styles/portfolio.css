@@ -134,3 +134,14 @@ font-size: 30px;
 font-weight: 700;
 
 }
+.resume-container{
+  display: flex;
+ }
+ .resume-column{
+  padding-right: 25px;
+  
+ }
+ .resume-item-description{
+  padding-right: 50px;
+
+ }
